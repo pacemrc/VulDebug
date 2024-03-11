@@ -1,4 +1,6 @@
-/libs/
+/lib/
 /.idea/
 /*/target/
-/patches/
+/*/*.iml
+/*/*/target/
+/*/lib/

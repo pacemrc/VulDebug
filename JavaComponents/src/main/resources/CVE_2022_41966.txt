@@ -1,0 +1,22 @@
+<set>
+  <set>
+    <set>
+      <set>
+        <set>
+          <set>
+            <set>
+              <string>a</string>
+            </set>
+            <set>
+              <string>b</string>
+            </set>
+          </set>
+          <set>
+            <string>c</string>
+            <set reference='../../../set/set[2]'/>
+          </set>
+        </set>
+      </set>
+    </set>
+  </set>
+</set>

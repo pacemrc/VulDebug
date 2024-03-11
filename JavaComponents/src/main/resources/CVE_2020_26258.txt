@@ -1,0 +1,17 @@
+<map>
+  <entry>
+    <jdk.nashorn.internal.objects.NativeString>
+      <flags>0</flags>
+      <value class='com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data'>
+        <dataHandler>
+          <dataSource class='javax.activation.URLDataSource'>
+            <url>http://127.0.0.1:8888/</url>
+          </dataSource>
+          <transferFlavors/>
+        </dataHandler>
+        <dataLen>0</dataLen>
+      </value>
+    </jdk.nashorn.internal.objects.NativeString>
+    <string>Client</string>
+  </entry>
+</map>
